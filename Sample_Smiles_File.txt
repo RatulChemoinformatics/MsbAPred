@@ -1,0 +1,11 @@
+C1CN(CC1O)C2=C(C=C(C=N2)C(=O)NC3=CC=C(C=C3)C(C(F)(F)F)(F)F)C4=CC=NN4 32
+Oc1ccc(cc1)NC(=O)c1cnc(c(c1)c1ccn[NH]1)N1CC[C@@H](O)C1 32a
+O[C@@H]1CCN(C1)c1ncc(cc1c1ccn[NH]1)C(=O)Nc1ccccc1 32b
+Cc1ccc(cc1)NC(=O)c1cnc(c(c1)c1ccn[NH]1)N1CC[C@@H](O)C1 32c
+Clc1ccc(cc1)NC(=O)c1cnc(c(c1)c1ccn[NH]1)N1CC[C@@H](O)C1 32d
+Fc1ccc(cc1)NC(=O)c1cnc(c(c1)c1ccn[NH]1)N1CC[C@@H](O)C1 32e
+COc1ccc(cc1)NC(=O)c1cnc(c(c1)c1ccn[NH]1)N1CC[C@@H](O)C1 32f
+CCCc1ccc(cc1)NC(=O)c1cnc(c(c1)c1ccn[NH]1)N1CC[C@@H](O)C1 32g
+Oc1cccc(c1)NC(=O)c1cnc(c(c1)c1ccn[NH]1)N1CC[C@@H](O)C1 32h
+Fc1cccc(c1)NC(=O)c1cnc(c(c1)c1ccn[NH]1)N1CC[C@@H](O)C1 32i
+COc1cccc(c1)NC(=O)c1cnc(c(c1)c1ccn[NH]1)N1CC[C@@H](O)C1 32j
