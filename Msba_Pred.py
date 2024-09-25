@@ -15,7 +15,7 @@ st.image(another_image, use_column_width=True)
 html_temp = """
 		<div style="background-color:teal">
 		<h2 style="font-family:arial;color:white;text-align:center;">MsbA-Pred</h1>
-		<h4 style="font-family:arial;color:white;text-align:center;">Artificial Intelligence Based Bioactivity Prediction Web-App</h4>       
+		<h4 style="font-family:arial;color:white;text-align:center;">Machine Learning Assisted Bioactivity Prediction Web-App</h4>       
 		</div>
 		<br>
 		"""
