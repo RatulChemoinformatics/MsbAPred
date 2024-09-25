@@ -1,9 +1,6 @@
-pandas
-Pillow
-base58
-click
-numpy==1.26.4
-pickle-mixin
 streamlit
-streamlit-option-menu
-scikit-learn==1.2.2
+pandas
+base58
+Pillow
+pickle-mixin
+scikit-learn==0.24.2
