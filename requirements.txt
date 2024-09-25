@@ -1,4 +1,4 @@
-spandas
+pandas
 Pillow
 base58
 click
