@@ -61,7 +61,7 @@ st.markdown("""
 This app allows you to predict the bioactivity towards inhibiting the `MsbA - ATP-dependent lipid A-core flippase`with respect to quinoline derivatives. `MsbA - ATP-dependent lipid A-core flippase` is a drug target for multidrug resistant gram negative bacterial infections.
 
 **Credits**
-- App built in `Python` + `Streamlit` by [Anupama Binoy, Dr. C. Gopi Mohan, Ratul Bhowmik]
+- App built in `Python` + `Streamlit` by [Ratul Bhowmik, Anupama Binoy, Dr. C. Gopi Mohan]
 - Author affiliations [Bioinformatics and Computational Biology Lab, Amrita School of Nanosciences and Molecular Medicine, Amrita Vishwa Vidyapeetham, Kochi]
 - Descriptor calculated using [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) [[Read the Paper]](https://doi.org/10.1002/jcc.21707).
 
