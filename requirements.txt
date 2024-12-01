@@ -3,4 +3,4 @@ pandas
 base58
 Pillow
 pickle-mixin
-scikit-learn
+scikit-learn>=1.0.2
